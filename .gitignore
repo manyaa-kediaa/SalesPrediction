@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build_project.py
+generate_notebook.py
+.gemini/
+.DS_Store
+*.zip
+*.log
